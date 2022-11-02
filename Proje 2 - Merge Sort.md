@@ -9,7 +9,7 @@
 
 ## 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-``` 
+```
 Aşama 1 
 
 [16, 21, 11]           [8, 12, 22]          Array ikiye bölünür.
