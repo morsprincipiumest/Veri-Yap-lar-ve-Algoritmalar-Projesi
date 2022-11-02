@@ -11,7 +11,7 @@
 
 
 ### 1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
-``` 
+```
 1. Aşama
 
 [22, 27, 16, 2, 18, 6] 
